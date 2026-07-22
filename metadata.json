@@ -1,0 +1,6 @@
+{
+  "name": "Online Banking Management System",
+  "description": "Enterprise Online Banking Management System featuring multi-account management, fund transfers, loans, AI fraud monitoring, admin audit logs, and complete Java JDBC MVC project source code viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
